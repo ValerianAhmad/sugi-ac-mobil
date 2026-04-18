@@ -4,12 +4,12 @@ export default function About() {
   const stats = [
     {
       icon: <Award size={32} />,
-      number: "15+",
+      number: "5+",
       label: "Tahun Pengalaman"
     },
     {
       icon: <Users size={32} />,
-      number: "5000+",
+      number: "1000+",
       label: "Pelanggan Puas"
     },
     {
@@ -33,7 +33,7 @@ export default function About() {
             <h2 className="section-title">Tentang Kami</h2>
             <p className="text-lg text-gray-600 mb-6">
               <strong className="text-primary">Sugi Ac Mobil</strong> telah 
-              melayani masyarakat Bekasi dan sekitarnya selama lebih dari 3 tahun dengan dedikasi 
+              melayani masyarakat Bekasi dan sekitarnya selama lebih dari 5 tahun dengan dedikasi 
               penuh untuk memberikan layanan terbaik.
             </p>
             

@@ -51,7 +51,7 @@ ${formData.message ? `Keluhan/Keterangan: ${formData.message}` : ''}`;
       icon: <MapPin size={24} />,
       title: "Alamat",
       content: "Jl. Raya Jatiasih, Kec. Jatiasih, Kota Bekasi, Jawa Barat",
-      link: "https://maps.app.goo.gl/giUpMqKeJq9uRriaA"
+      link: "https://maps.app.goo.gl/CJ2Pfhggz4GzBqt46"
     },
     {
       icon: <Phone size={24} />,
@@ -122,7 +122,7 @@ ${formData.message ? `Keluhan/Keterangan: ${formData.message}` : ''}`;
             {/* Map */}
             <div className="rounded-xl overflow-hidden shadow-lg">
               <iframe
-                src="https://maps.google.com/maps?q=Sugi+Ac+Mobil,+Bekasi&t=&z=15&ie=UTF8&iwloc=&output=embed"
+                src="https://maps.app.goo.gl/CJ2Pfhggz4GzBqt46"
                 width="100%"
                 height="300"
                 style={{ border: 0 }}
