@@ -1,30 +1,27 @@
-# Sugi Ac Mobil
+# Sugi AC Mobil
 
-Website jasa Service AC Mobil daerah Bekasi dan sekitarnya.
+Website company profile dan layanan servis AC mobil.
 
-## Tech Stack
+## Teknologi
 
-- Next.js (App Router)
+- Next.js 14
+- React 18
+- Tailwind CSS 3
 - TypeScript
-- Tailwind CSS v4
-- next-intl
-- Framer Motion
 - Lucide React
 
 ## Fitur
 
+- Landing Page Modern
 - Responsive Design
-- WhatsApp Booking
-- SEO Friendly
+- Informasi Layanan
+- Kontak WhatsApp
+- Optimasi SEO Dasar
 - Fast Loading
-- Mobile First
-- Service Packages
-- Gallery Service
-- Contact Form
 
-## Menjalankan Project
+## Instalasi
 
-Install dependency:
+Clone repository:
 
 ```bash
-npm install
+git clone <repository-url>
