@@ -90,12 +90,6 @@ export default function Footer() {
                   0859-7455-0459
                 </a>
               </li>
-              <li className="flex items-center gap-2">
-                <Mail size={18} className="text-primary" />
-                <a href="mailto:info@acmobilsamsugi.com" className="text-sm hover:text-primary">
-                  info@acmobilsamsugi.com
-                </a>
-              </li>
             </ul>
           </div>
         </div>
