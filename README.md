@@ -24,4 +24,4 @@ Website company profile dan layanan servis AC mobil.
 Clone repository:
 
 ```bash
-git clone <repository-url>
+git clone <sugi-ac-mobil.vercel.app>
